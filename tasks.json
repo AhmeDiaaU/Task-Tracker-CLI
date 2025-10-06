@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries and milk",
+        "status": "in-progress",
+        "createdAt": "2025-10-06T01:11:44.361759",
+        "updatedAt": "2025-10-06T01:11:44.393893",
+        "updated_at": "2025-10-06T01:11:44.411726"
+    },
+    {
+        "id": 2,
+        "description": "Finish the project report",
+        "status": "done",
+        "createdAt": "2025-10-06T01:11:44.362449",
+        "updatedAt": "2025-10-06T01:11:44.362449",
+        "updated_at": "2025-10-06T01:11:44.428128"
+    },
+    {
+        "id": 3,
+        "description": "finish my homeworl",
+        "status": "done",
+        "createdAt": "2025-10-06T02:47:04.235839",
+        "updatedAt": "2025-10-06T02:48:22.727711",
+        "updated_at": "2025-10-06T02:48:29.764489"
+    }
+]
