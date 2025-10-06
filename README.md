@@ -1,7 +1,3 @@
-Here is a description formatted for a GitHub repository's `README.md` file, based on the code you provided.
-
------
-
 # Interactive Command-Line Task Manager
 
 A simple yet powerful task management application that runs in your terminal. This tool uses an interactive, menu-driven interface to help you keep track of your tasks, with all data persistently stored in a local JSON file.
